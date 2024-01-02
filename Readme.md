@@ -27,7 +27,8 @@ Our mission is to raise the abstraction ceiling in web development in the same w
 # Tutorial and live examples
 
 - Live Tutorial: https://electric.hyperfiddle.net/
-- [electric starter app](https://github.com/hyperfiddle/electric-starter-app)
+- [electric starter app](https://github.com/hyperfiddle/electric-fiddle)
+- [electric old starter app](https://github.com/hyperfiddle/electric-starter-app)
 - [XTDB starter app](https://github.com/hyperfiddle/electric-xtdb-starter)
 
 # Documentation
